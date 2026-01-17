@@ -1,5 +1,5 @@
-import Navbar from './Navbar'
-import Sidebar from './Sidebar'
+import Navbar from '../nav/Navbar'
+import Sidebar from '../nav/Sidebar'
 
 interface PageLayoutProps {
   children: React.ReactNode

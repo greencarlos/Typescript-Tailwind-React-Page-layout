@@ -1,7 +1,7 @@
 import Pagelayout from '../comps/Pagelayout.tsx'
 
-const Homepage: React.FC = () => {
+const About: React.FC = () => {
   return <Pagelayout/>
 }
 
-export default Homepage
+export default About 
